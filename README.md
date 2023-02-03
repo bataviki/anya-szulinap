@@ -1,2 +1,2 @@
-# wedding-site
-Final modul for CodeBerry course
+# anya-szulinap
+Bent hagytam az esküvős oldal CSS kódját, nem volt időm kitakarítani!
