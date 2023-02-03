@@ -314,6 +314,8 @@ li > p {
         letter-spacing: 0.05rem;
         line-height: 1.5rem;
         margin-bottom: 2rem;
+        margin-left: 2em;
+        margin-right: 2em;
     }
 
 }
